@@ -1,0 +1,19 @@
+# ----------------------- ECHO CONFIGURATION
+PORT: "3002"
+
+# ----------------------- DATABASE CONFIGURATION
+DATABASE:
+  USERNAME: 
+  PASSWORD:
+  HOST:
+  NAME:
+
+POSTGRES:
+  USERNAME: "postgres"
+  PASSWORD: "root"
+  HOST: "172.17.0.2"
+  PORT: "5432"
+  NAME: "postgres"
+
+MONGO:
+  URI: 
